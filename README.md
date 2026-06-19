@@ -34,9 +34,9 @@ All 531 materials classified into 5 demand patterns:
 | Pattern | Count | % of Volume | Forecasting Approach |
 |---------|-------|-------------|---------------------|
 | True High Runner | 38 | 85.6% | XGBoost statistical forecasting |
-| Regular Mover | ~80 | 10% | Simple moving average / exponential smoothing |
-| Lumpy | ~120 | 3% | Croston's method / intermittent demand models |
-| Sporadic | ~180 | 1% | Manual review + safety stock optimization |
+| Regular Mover | 8 | 10% | Simple moving average / exponential smoothing |
+| Lumpy | 8 | 3% | Croston's method / intermittent demand models |
+| Sporadic | 87 | 1% | Manual review + safety stock optimization |
 | MTO (Make-to-Order) | 390 | 0.4% | **No statistical forecast** - order-driven |
 
 **Key Insight:** 390 MTO materials were incorrectly set up for statistical 
