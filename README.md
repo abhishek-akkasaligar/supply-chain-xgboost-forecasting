@@ -12,13 +12,15 @@ import planning environment. Built on 3 years of SAP shipment data covering
 531 Korea-to-Europe materials.
 
 **Key Results:**
-- ✅ 38 individual XGBoost models trained on high-runner parts (85.6% of volume)
-- ✅ 89% win rate vs live SAP planning system (34 of 38 parts)
-- ✅ +2.27 million units/week accuracy improvement on high runners
-- ✅ 16 parts flagged with <2 weeks stock (stockout risk)
-- ✅ 37 lead time discrepancies caught (system: 120 days, actual: 45-80 days)
-- ✅ 390 MTO materials incorrectly classified for statistical forecasting
-- The notebooks in this repo run against synthetic sample data for reproducibility. Win rates shown in the notebooks differ from the production results below, which come from real shipment history
+
+✅ 38 individual XGBoost models trained on high-runner parts (85.6% of volume)
+✅ 89% win rate vs live SAP planning system (34 of 38 parts)
+✅ +2.27 million units/week accuracy improvement on high runners
+✅ 16 parts flagged with <2 weeks stock (stockout risk)
+✅ 37 lead time discrepancies caught (system: 120 days, actual: 45-80 days)
+✅ 390 MTO materials incorrectly classified for statistical forecasting
+
+*Note: the notebooks in this repo run against synthetic sample data for reproducibility. Win rates shown when you execute them differ from the production results above, which come from real shipment history.*
 
 ## Business Context
 
