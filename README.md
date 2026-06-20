@@ -18,6 +18,7 @@ import planning environment. Built on 3 years of SAP shipment data covering
 - ✅ 16 parts flagged with <2 weeks stock (stockout risk)
 - ✅ 37 lead time discrepancies caught (system: 120 days, actual: 45-80 days)
 - ✅ 390 MTO materials incorrectly classified for statistical forecasting
+- The notebooks in this repo run against synthetic sample data for reproducibility. Win rates shown in the notebooks differ from the production results below, which come from real shipment history
 
 ## Business Context
 
