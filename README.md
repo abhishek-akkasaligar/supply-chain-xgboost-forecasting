@@ -129,7 +129,7 @@ jupyter notebook notebooks/01_data_preparation.ipynb
 
 ## Connect With Me
 
-- LinkedIn: [linkedin.com/in/abhishek-akkasaligar-48829076]
+- LinkedIn: linkedin.com/in/abhishek-akkasaligar-48829076
 - Email: abhishek.akkasaligar@gmail.com
 - Open to: Supply Chain Data Science | Demand Planning | Inventory Optimization roles
 
